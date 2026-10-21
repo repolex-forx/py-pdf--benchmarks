@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/py-pdf/benchmarks/commit/5c7640adc0d8425d97c3ef9dda49e76b8f33c556",
       "git:hexsha": "5c7640adc0d8425d97c3ef9dda49e76b8f33c556",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
