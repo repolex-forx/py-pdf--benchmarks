@@ -1,0 +1,11 @@
+{
+  "org": "py-pdf",
+  "repo": "benchmarks",
+  "versions": [
+    {
+      "commit": "5c7640adc0d8425d97c3ef9dda49e76b8f33c556",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:04:33.748881+00:00"
+    }
+  ]
+}
